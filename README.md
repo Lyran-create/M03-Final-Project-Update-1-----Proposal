@@ -1,4 +1,3 @@
-# M03-Final-Project-Update-1-----Proposal
 import java.util.ArrayList;
 import java.util.Collections;
 
